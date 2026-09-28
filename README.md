@@ -137,6 +137,10 @@ Examples of strong positive predictors include:
 - **Chinese:** soy sauce, star anise, peanut oil, black bean, sesame oil
 - **Japanese:** seaweed, sake, soy sauce, green tea, kelp
 
+### Predictive Ingredients by Cuisine
+
+![Predictive Ingredients by Cuisine](images/logistic_regression_predictive_ingredients.png)
+
 These coefficients represent **predictive association rather than causation**.
 
 An important distinction emerged between ingredient prevalence and predictive importance. Some ingredients that were not among the most common within a cuisine still received large positive coefficients because they were useful for distinguishing that cuisine from others.
