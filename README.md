@@ -78,6 +78,10 @@ Cuisine-specific analysis revealed distinctive ingredient patterns. Examples inc
 
 The exploratory analysis also showed that some ingredients are common across many cuisines, while others provide stronger cuisine-specific signals.
 
+### Cuisine Ingredient Profiles
+
+![Cuisine Ingredient Profiles](images/cuisine_ingredient_profiles.png)
+
 ## Models Evaluated
 
 Six classification approaches were compared:
