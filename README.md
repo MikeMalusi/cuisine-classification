@@ -106,6 +106,10 @@ The ordinary **Logistic Regression model** was retained as the primary model bec
 
 The class-balanced Logistic Regression substantially improved recognition of minority cuisine categories, as reflected in its higher balanced accuracy, but this improvement came at a major cost to overall accuracy.
 
+### Model Performance Comparison
+
+![Model Performance Comparison](images/final_model_performance_comparison.png)
+
 ## Key Findings
 
 - Recipe ingredients contain useful information for predicting cuisine.
